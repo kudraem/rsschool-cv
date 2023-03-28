@@ -48,3 +48,49 @@ There are some projects:
 ### Languages
 * English - B1 (Intermediate) CEFR Level
 * Russian - native speaker
+
+### Code Example
+```php
+<?php
+
+require_once __DIR__ . '/AffLeadApiException.php';
+
+class AffLeadApi {
+    private $apiToken;
+    private $baseUrl = 'https://aff-lead.com/lion';
+
+    public function __construct($apiToken)
+    {
+        $this->apiToken = $apiToken;
+    }
+
+    public function request($method, $params)
+    {
+        $url = sprintf("%s/%s", $this->baseUrl, $method);
+
+        $params['Token'] = $this->apiToken;
+
+        $ch = curl_init($url);
+        curl_setopt($ch, CURLOPT_POST, true);
+        curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($params));
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+
+        $response = curl_exec($ch);
+
+        if (curl_errno($ch)) {
+            throw new \Exception(curl_error($ch), 1);
+        }
+
+        $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        if ($httpCode != 200) {
+            $exceptionMessage = sprintf('http code - %s', $httpCode);
+            throw new \Exception($exceptionMessage, 1);
+        }
+
+        $result = json_decode($response, true, 512, JSON_THROW_ON_ERROR);
+        curl_close($ch);
+
+        return $result;
+    }
+}
+```
