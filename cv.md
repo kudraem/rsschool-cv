@@ -44,3 +44,7 @@ There are some projects:
 1. EdX / Course "How to Code: Simple Data"
 1. EdX / Course "How to Code: Complex Data"
 1. MIT OCW / Course "6.0001 Introduction to Computer Science and Programming in Python"
+
+### Languages
+* English - B1 (Intermediate) CEFR Level
+* Russian - native speaker
