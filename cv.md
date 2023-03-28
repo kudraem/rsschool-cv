@@ -29,3 +29,11 @@ Fun fact: retired lawyer.
 - Git / GitHub / GitLab
 - Bash / Zsh
 - Mysql / PostgreSQL / MongoDB
+
+### Work Experience
+#### Freelance / 2020 - 2023
+Fullstack web developer. I've developed simple UI (dashboards, admin panels, forms, etc.), microservices, integration with different REST API services, workflows automatization.
+
+There are some projects:
+1. [Bitrix24 Call Automatization Tool](https://gitlab.com/kudraem/b24_missed_call_activity_autoclose/)
+1. [aff-lead.com PHP API Wrapper](https://gitlab.com/kudraem/aff-lead.com-api/)
