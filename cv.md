@@ -19,3 +19,13 @@ I love to write, read, test code and problem solving.
 I’m looking to job. 
 
 Fun fact: retired lawyer.
+
+### Skills
+- Python / Django
+- PHP / Laravel
+- HTML / CSS / Sass
+- JavaScript / Vue.js / Node.js
+- Bitrix24
+- Git / GitHub / GitLab
+- Bash / Zsh
+- Mysql / PostgreSQL / MongoDB
