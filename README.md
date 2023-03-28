@@ -1,1 +1,1 @@
-https://kudraem.github.io/rsschool-cv/cv
+https://kudraem.github.io/rsschool-cv/
