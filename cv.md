@@ -37,3 +37,10 @@ Fullstack web developer. I've developed simple UI (dashboards, admin panels, for
 There are some projects:
 1. [Bitrix24 Call Automatization Tool](https://gitlab.com/kudraem/b24_missed_call_activity_autoclose/)
 1. [aff-lead.com PHP API Wrapper](https://gitlab.com/kudraem/aff-lead.com-api/)
+
+### Education
+1. Southern Federal University, Faculty of Law, Specialist degree / 2010 - 2015
+1. Coursera / Course "Introduction to Git and GitHub"
+1. EdX / Course "How to Code: Simple Data"
+1. EdX / Course "How to Code: Complex Data"
+1. MIT OCW / Course "6.0001 Introduction to Computer Science and Programming in Python"
