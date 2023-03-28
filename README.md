@@ -1,0 +1,1 @@
+https://kudraem.github.io/rsschool-cv/
