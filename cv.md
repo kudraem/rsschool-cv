@@ -10,6 +10,8 @@
 * __Phone:__ +7 (747) 871-95-19
 * __Twitter:__ [@kudraem](https://twitter.com/kudraem)
 
+---
+
 ### Briefly About Myself
 I’m currently working on freelance - fullstack web developer and learning Computer Science.
 
@@ -19,6 +21,8 @@ I love to write, read, test code and problem solving.
 I’m looking to job. 
 
 Fun fact: retired lawyer.
+
+---
 
 ### Skills
 - Python / Django
@@ -30,6 +34,8 @@ Fun fact: retired lawyer.
 - Bash / Zsh
 - Mysql / PostgreSQL / MongoDB
 
+---
+
 ### Work Experience
 #### Freelance / 2020 - 2023
 Fullstack web developer. I've developed simple UI (dashboards, admin panels, forms, etc.), microservices, integration with different REST API services, workflows automatization.
@@ -38,6 +44,8 @@ There are some projects:
 1. [Bitrix24 Call Automatization Tool](https://gitlab.com/kudraem/b24_missed_call_activity_autoclose/)
 1. [aff-lead.com PHP API Wrapper](https://gitlab.com/kudraem/aff-lead.com-api/)
 
+---
+
 ### Education
 1. Southern Federal University, Faculty of Law, Specialist degree / 2010 - 2015
 1. Coursera / Course "Introduction to Git and GitHub"
@@ -45,9 +53,13 @@ There are some projects:
 1. EdX / Course "How to Code: Complex Data"
 1. MIT OCW / Course "6.0001 Introduction to Computer Science and Programming in Python"
 
+---
+
 ### Languages
 * English - B1 (Intermediate) CEFR Level
 * Russian - native speaker
+
+---
 
 ### Code Example
 ```php
