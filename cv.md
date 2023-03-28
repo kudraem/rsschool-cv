@@ -1,5 +1,6 @@
 # rsschool-cv
 ## Ivan Khimich / Junior Software Developer
+![Khimich Ivan](photo.jpeg)
 
 ### Contacts
 * __Address:__ Serbia, Belgrade
