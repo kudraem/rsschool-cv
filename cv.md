@@ -9,3 +9,13 @@
 * __GitHub:__ https://github.com/kudraem/
 * __Phone:__ +7 (747) 871-95-19
 * __Twitter:__ [@kudraem](https://twitter.com/kudraem)
+
+### Briefly About Myself
+I’m currently working on freelance - fullstack web developer and learning Computer Science.
+
+I want to be a professional developer with fundamental knowledge and professional skills that will allow me to create high quality software.
+I love to write, read, test code and problem solving.
+
+I’m looking to job. 
+
+Fun fact: retired lawyer.
