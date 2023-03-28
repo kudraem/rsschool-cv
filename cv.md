@@ -9,6 +9,7 @@
 * __Telegram:__ https://t.me/kudraem
 * __GitHub:__ https://github.com/kudraem/
 * __Phone:__ +7 (747) 871-95-19
+* __Discord rs-school nickname:__ Ivan Khimich (@kudraem) 
 * __Twitter:__ [@kudraem](https://twitter.com/kudraem)
 
 ---
